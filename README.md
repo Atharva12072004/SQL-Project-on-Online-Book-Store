@@ -11,6 +11,7 @@ Here’s a clean and professional **README** file for your **SQL Project on Onli
 This project is a SQL-based **Online Book Store Management System** that manages books, customers, and orders using relational database concepts. It demonstrates how to structure and query data efficiently to simulate a real-world e-commerce system for selling books.
 
 ---
+![Screenshot 2025-06-20 095934](https://github.com/user-attachments/assets/1e5b1347-381f-4005-bb79-08d5d30dbcf7)
 
 ## 🛠 Technologies Used
 
